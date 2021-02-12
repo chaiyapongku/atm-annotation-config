@@ -1,2 +1,4 @@
-package atm;public class DataSourceAPI {
+package atm;
+
+public class DataSourceAPI {
 }
